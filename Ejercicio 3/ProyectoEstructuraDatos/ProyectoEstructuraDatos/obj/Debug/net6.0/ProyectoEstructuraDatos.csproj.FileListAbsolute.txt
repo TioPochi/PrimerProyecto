@@ -1,0 +1,15 @@
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.AssemblyInfoInputs.cache
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.AssemblyInfo.cs
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\bin\Debug\net6.0\ProyectoEstructuraDatos.exe
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\bin\Debug\net6.0\ProyectoEstructuraDatos.deps.json
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\bin\Debug\net6.0\ProyectoEstructuraDatos.runtimeconfig.json
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\bin\Debug\net6.0\ProyectoEstructuraDatos.dll
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\bin\Debug\net6.0\ProyectoEstructuraDatos.pdb
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.dll
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\refint\ProyectoEstructuraDatos.dll
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.pdb
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ProyectoEstructuraDatos.genruntimeconfig.cache
+C:\Users\caleb\source\repos\ProyectoEstructuraDatos\ProyectoEstructuraDatos\obj\Debug\net6.0\ref\ProyectoEstructuraDatos.dll
